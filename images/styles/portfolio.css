@@ -122,3 +122,39 @@ main{
 .skill-description{
     color: #757575;
 }
+/* resume style */
+.resume-haed{
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-contine{
+    display: flex;
+}
+.resume-title{
+    font-weight: 700;
+font-size: 30px;
+    color: #474747;
+    margin: 115px 140px 37px 0px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 3px;
+}
+.resume .sub{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume .d{
+    color: #757575;
+    font-size: 16px;
+}
