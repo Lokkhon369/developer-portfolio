@@ -162,3 +162,33 @@ font-size: 30px;
     text-align: center;
     margin-top: 50px;
 }
+/* contact style */
+.contact{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px
+    /* width: 1600px;
+height: 780px;
+left: 0px;
+top: 3476px; */
+}
+.c-t{
+    color: #181818;
+    font-weight: 700;
+font-size: 35px;
+margin-bottom: 20px;
+}
+.p-t{
+    color: #474747;
+     /* text-align-last: center; */
+}
+.y{
+    margin-bottom: 24px;
+    width: 350px;
+height: 30px;
+}
+.z{
+    width: 461px;
+height: 120px;
+}
